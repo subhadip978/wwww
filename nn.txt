@@ -3,6 +3,6 @@ function{
 console.log("hi")
 }
 
-const ans=function();
+
 
 console.log(ans)
